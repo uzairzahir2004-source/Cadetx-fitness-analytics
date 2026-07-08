@@ -1,0 +1,7 @@
+signal_id,platform,raw_engagement_count,sentiment_score,engagement_ratio,influencer_weight,trend_velocity
+1,YouTube,15200,0.85,0.062,2.5,1.2
+2,Reddit,340,-0.45,0.115,1.0,-0.5
+3,Twitter/X,4800,0.20,0.045,1.8,2.1
+4,YouTube,22100,0.90,0.071,3.0,1.8
+5,Reddit,120,-0.10,0.083,1.0,0.0
+6,Twitter/X,1500,-0.60,0.033,1.2,1.5
