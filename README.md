@@ -18,3 +18,18 @@
     * Reddit provides long-form text discussions that highlight deep user issues, bug workarounds, and community feature requests.
     * Twitter/X captures immediate, high-velocity real-time feedback and system status alerts.
     * YouTube shows structured reviews, long-term feedback, and tutorial engagement data.
+
+## Task 03: Data Cleaning Note
+
+### 1. Overview
+We cleaned the MyFitnessPal social media data to make it ready for analysis.
+
+### 2. Steps Taken
+* **Lowercase:** Changed all text to small letters.
+* **Noise Removal:** Removed links, emojis, and hashtags.
+* **Stopwords:** Removed common words like the, of, and after.
+* **Lemmatization:** Shortened words back to their root form.
+* **Metrics:** Kept engagement counts as clean numbers.
+
+### 3. File Link
+The clean data is saved in myfitnesspal_cleaned_signals.csv.
